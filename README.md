@@ -30,10 +30,10 @@ lidos*. E-mails válidos devem obedecer às seguintes regras:
 
 ## Exemplos
 
-Entrada | Saida
-------- | -----
+Entrada                                               | Saida
+-------                                               | -----
 `meu@email.com eh um email valido e seu@email tambem` | `meu@email.com\nseu@email`
-`algunsemails-@.naosaovalidos entao o retorno eh nulo` |
+`algunsemails-@.naosaovalidos entao o retorno eh nulo`|
 
 ## Instruções adicionais
 
